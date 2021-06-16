@@ -1,4 +1,4 @@
-#Javascript:#
+#Javascript:
 
 ```
 window.open(
@@ -8,7 +8,7 @@ window.open(
 );
 ```
 
-#HTML:#
+#HTML:
 
 ```
 <li class="moduleMenu" data-menu-module-id="">
