@@ -1,6 +1,6 @@
 Javascript:
 
-```
+```javascript
 window.open(
   "https://beta.simet.nic.br/widget.html",
   'Bentley Brasil - Teste de velocidade',
@@ -10,7 +10,7 @@ window.open(
 
 HTML:
 
-```
+```html
 <li class="moduleMenu" data-menu-module-id="">
   <a href="#" onclick="
     window.open(
